@@ -61,7 +61,7 @@ npm run dev
 # Shop Daurin-api
 [POST] https://daurin-api/shops/ # Create shop
 [PUT] https://daurin-api/shops/:shopId # redeem Shops
-[GET] https://daurin-api/shops/:shopId # Get  all Shops Data
+[GET] https://daurin-api/shops/ # Get  all Shops Data
 [GET] https://daurin-api/shops/ # Get  all Shops Data
 
 
